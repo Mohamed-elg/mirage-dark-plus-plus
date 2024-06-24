@@ -1,0 +1,22 @@
+{
+  "name": "mirage-dark-plus-plus",
+  "displayName": "Mirage Dark++",
+  "description": "Fork of Mirage Dark+. A combination of Mirage theme and Dark+ theme.",
+  "version": "0.0.1",
+  "publisher": "M.E, jaromirroth",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mirage Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mirage Dark++-color-theme.json"
+      }
+    ]
+  }
+}
