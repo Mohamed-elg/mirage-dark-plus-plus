@@ -1,6 +1,7 @@
 {
   "name": "Mirage Dark++",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.background": "#212733",
     "activityBar.border": "#343d4a",
